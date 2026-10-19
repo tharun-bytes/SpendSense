@@ -1,0 +1,69 @@
+Date,Description,Amount,Type,Category
+2026-05-01,TechCorp Monthly Salary,85000.00,Income,Income
+2026-05-02,City Heights Apartment Rent,22000.00,Expense,Housing
+2026-05-03,Nature Basket Groceries,3450.50,Expense,Food and Dining
+2026-05-04,Metro Transit Monthly Pass,1500.00,Expense,Transportation
+2026-05-05,Netflix 4K Ultra Subscription,649.00,Expense,Subscriptions
+2026-05-06,Starbucks Reserve Cafe,420.00,Expense,Food and Dining
+2026-05-08,Electricity Board Utility Bill,2180.00,Expense,Utilities
+2026-05-10,Amazon Online Shopping,4890.00,Expense,Shopping
+2026-05-12,Uber Ride Downtown,380.00,Expense,Transportation
+2026-05-15,Swiggy Gourmet Dinner,890.00,Expense,Food and Dining
+2026-05-18,Apollo Pharmacy Medicines,1240.00,Expense,Healthcare
+2026-05-20,Spotify Duo Subscription,199.00,Expense,Subscriptions
+2026-05-22,Udemy Cloud Certification Course,899.00,Expense,Education
+2026-05-25,Zara Summer Apparel,6500.00,Expense,Shopping
+2026-05-28,PVR IMAX Movie Tickets,1100.00,Expense,Entertainment
+2026-06-01,TechCorp Monthly Salary,85000.00,Income,Income
+2026-06-02,City Heights Apartment Rent,22000.00,Expense,Housing
+2026-06-03,Nature Basket Groceries,3820.00,Expense,Food and Dining
+2026-06-05,Netflix 4K Ultra Subscription,649.00,Expense,Subscriptions
+2026-06-07,Shell Gas Station Fuel,3100.00,Expense,Transportation
+2026-06-09,Broadband Internet Fiber Bill,1499.00,Expense,Utilities
+2026-06-12,Zomato Weekend Dinner,1450.00,Expense,Food and Dining
+2026-06-15,Consulting Project Honorarium,25000.00,Income,Income
+2026-06-18,Dental Clinic Routine Checkup,2500.00,Expense,Healthcare
+2026-06-20,Spotify Duo Subscription,199.00,Expense,Subscriptions
+2026-06-22,Flipkart Home Appliance,8999.00,Expense,Shopping
+2026-06-25,IndiGo Airlines Flight Tickets,14500.00,Expense,Travel
+2026-06-28,Airbnb Mountain Villa Booking,18200.00,Expense,Travel
+2026-07-01,TechCorp Monthly Salary,85000.00,Income,Income
+2026-07-02,City Heights Apartment Rent,22000.00,Expense,Housing
+2026-07-04,Nature Basket Groceries,4120.00,Expense,Food and Dining
+2026-07-05,Netflix 4K Ultra Subscription,649.00,Expense,Subscriptions
+2026-07-08,Electricity Board Utility Bill,2890.00,Expense,Utilities
+2026-07-11,Uber Airport Ride,780.00,Expense,Transportation
+2026-07-14,Apple MacBook Extended Care (Outlier),28900.00,Expense,Shopping
+2026-07-17,Swiggy Lunch Order,450.00,Expense,Food and Dining
+2026-07-20,Spotify Duo Subscription,199.00,Expense,Subscriptions
+2026-07-23,Coursera Specialization Annual,12999.00,Expense,Education
+2026-07-26,PlayStation Store Game Purchase,3499.00,Expense,Entertainment
+2026-08-01,TechCorp Monthly Salary,85000.00,Income,Income
+2026-08-02,City Heights Apartment Rent,22000.00,Expense,Housing
+2026-08-04,Nature Basket Groceries,3650.00,Expense,Food and Dining
+2026-08-05,Netflix 4K Ultra Subscription,649.00,Expense,Subscriptions
+2026-08-08,Shell Gas Station Fuel,2950.00,Expense,Transportation
+2026-08-10,Water Department Municipal Bill,650.00,Expense,Utilities
+2026-08-14,Starbucks Cold Brew,380.00,Expense,Food and Dining
+2026-08-18,Apollo Hospital Specialist Visit,3200.00,Expense,Healthcare
+2026-08-20,Spotify Duo Subscription,199.00,Expense,Subscriptions
+2026-08-24,Amazon Books and Stationary,1890.00,Expense,Shopping
+2026-09-01,TechCorp Monthly Salary,85000.00,Income,Income
+2026-09-02,City Heights Apartment Rent,22000.00,Expense,Housing
+2026-09-03,Nature Basket Groceries,3950.00,Expense,Food and Dining
+2026-09-05,Netflix 4K Ultra Subscription,649.00,Expense,Subscriptions
+2026-09-08,Electricity Board Utility Bill,2340.00,Expense,Utilities
+2026-09-12,Uber City Commute,420.00,Expense,Transportation
+2026-09-15,Annual Bonus Payout,45000.00,Income,Income
+2026-09-18,Zomato Family Dinner,2150.00,Expense,Food and Dining
+2026-09-20,Spotify Duo Subscription,199.00,Expense,Subscriptions
+2026-09-24,IKEA Furniture Desk Setup,16500.00,Expense,Shopping
+2026-10-01,TechCorp Monthly Salary,85000.00,Income,Income
+2026-10-02,City Heights Apartment Rent,22000.00,Expense,Housing
+2026-10-03,Nature Basket Groceries,4280.00,Expense,Food and Dining
+2026-10-05,Netflix 4K Ultra Subscription,649.00,Expense,Subscriptions
+2026-10-07,Shell Gas Station Fuel,3200.00,Expense,Transportation
+2026-10-10,Broadband Internet Fiber Bill,1499.00,Expense,Utilities
+2026-10-14,Swiggy Dinner Order,680.00,Expense,Food and Dining
+2026-10-16,Gym & Fitness Quarterly Membership,7500.00,Expense,Healthcare
+2026-10-18,Amazon Electronics Gadgets,5400.00,Expense,Shopping

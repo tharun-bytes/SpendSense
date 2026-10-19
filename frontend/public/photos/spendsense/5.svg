@@ -1,0 +1,62 @@
+<svg width="600" height="800" viewBox="0 0 600 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#09090b" />
+      <stop offset="100%" stop-color="#18181b" />
+    </linearGradient>
+    <linearGradient id="cardBorder5" x1="0" y1="0" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="596" height="796" rx="24" fill="url(#bg5)" stroke="url(#cardBorder5)" stroke-width="2"/>
+
+  <!-- Stage Pill -->
+  <rect x="40" y="45" width="185" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2"/>
+  <text x="55" y="65" fill="#ffffff" font-family="'Geist Mono', monospace" font-size="11" font-weight="600" letter-spacing="1">ACTIONABLE INSIGHTS</text>
+
+  <!-- Header -->
+  <text x="40" y="115" fill="#ffffff" font-family="system-ui, sans-serif" font-size="20" font-weight="700" letter-spacing="-0.5">EXECUTIVE DECISION MATRIX</text>
+  <text x="40" y="140" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="13">Grounded optimization &amp; audited portfolio compliance</text>
+  <line x1="40" y1="165" x2="560" y2="165" stroke="#ffffff" stroke-opacity="0.1"/>
+
+  <!-- Audit Badge Card -->
+  <rect x="40" y="190" width="520" height="110" rx="16" fill="#064e3b" fill-opacity="0.2" stroke="#10b981" stroke-opacity="0.4"/>
+  <text x="65" y="222" fill="#34d399" font-family="'Geist Mono', monospace" font-size="11">PORTFOLIO DATA AUDIT PASSED</text>
+  <text x="65" y="255" fill="#ffffff" font-family="system-ui, sans-serif" font-size="18" font-weight="700">100% Sanitized &amp; Verified Ingestion</text>
+  <text x="65" y="282" fill="#a1a1aa" font-family="'Geist Mono', monospace" font-size="11">68 Valid Records • 1 Duplicate Eliminated • Zero Data Leaks</text>
+
+  <!-- Optimization 1 -->
+  <g transform="translate(40, 325)">
+    <rect width="520" height="85" rx="14" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.15"/>
+    <text x="20" y="32" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Discretionary Capital Reallocation</text>
+    <text x="20" y="58" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12">Reallocate ₹24,500 monthly surplus into emergency buffer</text>
+    <text x="390" y="45" fill="#10b981" font-family="'Geist Mono', monospace" font-size="15" font-weight="700">+₹24,500/mo</text>
+  </g>
+
+  <!-- Optimization 2 -->
+  <g transform="translate(40, 425)">
+    <rect width="520" height="85" rx="14" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.15"/>
+    <text x="20" y="32" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Recurring Subscription Rationalization</text>
+    <text x="20" y="58" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12">Trim unutilized SaaS tiers for an annualized ₹7,788 saving</text>
+    <text x="390" y="45" fill="#10b981" font-family="'Geist Mono', monospace" font-size="15" font-weight="700">₹7,788/yr Saved</text>
+  </g>
+
+  <!-- Optimization 3 -->
+  <g transform="translate(40, 525)">
+    <rect width="520" height="85" rx="14" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.15"/>
+    <text x="20" y="32" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Healthcare Variance Calibration</text>
+    <text x="20" y="58" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12">Increase seasonal medical contingency allowance by ₹4,500</text>
+    <text x="390" y="45" fill="#e4e4e7" font-family="'Geist Mono', monospace" font-size="15" font-weight="700">Cap Calibrated</text>
+  </g>
+
+  <!-- Download Statement Card -->
+  <g transform="translate(40, 630)">
+    <rect width="520" height="110" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.3"/>
+    <text x="20" y="38" fill="#ffffff" font-family="system-ui, sans-serif" font-size="15" font-weight="600">Export Audited Financial Statements</text>
+    <text x="20" y="65" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12">Download clean CSV ledger and executive PDF summary</text>
+    <rect x="20" y="78" width="480" height="2" fill="#ffffff" fill-opacity="0.1"/>
+    <text x="360" y="50" fill="#ffffff" font-family="'Geist Mono', monospace" font-size="12">Ready for Export &#8594;</text>
+  </g>
+</svg>

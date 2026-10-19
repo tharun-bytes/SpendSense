@@ -1,0 +1,72 @@
+<svg width="600" height="800" viewBox="0 0 600 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#09090b" />
+      <stop offset="100%" stop-color="#18181b" />
+    </linearGradient>
+    <linearGradient id="cardBorder4" x1="0" y1="0" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="596" height="796" rx="24" fill="url(#bg4)" stroke="url(#cardBorder4)" stroke-width="2"/>
+
+  <!-- Stage Pill -->
+  <rect x="40" y="45" width="180" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2"/>
+  <text x="55" y="65" fill="#ffffff" font-family="'Geist Mono', monospace" font-size="11" font-weight="600" letter-spacing="1">ANOMALY DETECTION</text>
+
+  <!-- Header -->
+  <text x="40" y="115" fill="#ffffff" font-family="system-ui, sans-serif" font-size="20" font-weight="700" letter-spacing="-0.5">STATISTICAL ANOMALY RADAR</text>
+  <text x="40" y="140" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="13">Nonparametric IQR Outlier Detection (Q3 + 1.5×IQR)</text>
+  <line x1="40" y1="165" x2="560" y2="165" stroke="#ffffff" stroke-opacity="0.1"/>
+
+  <!-- Formula Callout -->
+  <rect x="40" y="190" width="520" height="80" rx="14" fill="#3b0764" fill-opacity="0.2" stroke="#a855f7" stroke-opacity="0.4"/>
+  <text x="60" y="218" fill="#d8b4fe" font-family="'Geist Mono', monospace" font-size="11">MATHEMATICAL DISPERSION BOUNDS</text>
+  <text x="60" y="248" fill="#ffffff" font-family="'Geist Mono', monospace" font-size="14" font-weight="600">IQR = ₹4,368.50  |  Outlier Threshold = ₹11,570.25</text>
+
+  <!-- Outliers List -->
+  <text x="40" y="305" fill="#a1a1aa" font-family="'Geist Mono', monospace" font-size="11">STATISTICALLY ATYPICAL TRANSACTIONS</text>
+
+  <!-- Outlier 1 -->
+  <g transform="translate(40, 325)">
+    <rect width="520" height="70" rx="14" fill="#881337" fill-opacity="0.2" stroke="#f43f5e" stroke-opacity="0.3"/>
+    <text x="20" y="30" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Airbnb Mountain Villa</text>
+    <text x="20" y="52" fill="#fb7185" font-family="'Geist Mono', monospace" font-size="11">2026-06-28 • +₹13,182.50 above Q3</text>
+    <text x="410" y="42" fill="#f43f5e" font-family="'Geist Mono', monospace" font-size="18" font-weight="700">₹18,200.00</text>
+  </g>
+
+  <!-- Outlier 2 -->
+  <g transform="translate(40, 408)">
+    <rect width="520" height="70" rx="14" fill="#881337" fill-opacity="0.2" stroke="#f43f5e" stroke-opacity="0.3"/>
+    <text x="20" y="30" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">IKEA Furniture Desk Setup</text>
+    <text x="20" y="52" fill="#fb7185" font-family="'Geist Mono', monospace" font-size="11">2026-09-24 • +₹11,482.50 above Q3</text>
+    <text x="410" y="42" fill="#f43f5e" font-family="'Geist Mono', monospace" font-size="18" font-weight="700">₹16,500.00</text>
+  </g>
+
+  <!-- Outlier 3 -->
+  <g transform="translate(40, 491)">
+    <rect width="520" height="70" rx="14" fill="#881337" fill-opacity="0.2" stroke="#f43f5e" stroke-opacity="0.3"/>
+    <text x="20" y="30" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">IndiGo Flight Tickets</text>
+    <text x="20" y="52" fill="#fb7185" font-family="'Geist Mono', monospace" font-size="11">2026-06-25 • +₹9,482.50 above Q3</text>
+    <text x="410" y="42" fill="#f43f5e" font-family="'Geist Mono', monospace" font-size="18" font-weight="700">₹14,500.00</text>
+  </g>
+
+  <!-- Recurring Subscriptions -->
+  <text x="40" y="590" fill="#a1a1aa" font-family="'Geist Mono', monospace" font-size="11">RECURRING MULTI-MONTH LIABILITIES</text>
+
+  <g transform="translate(40, 610)">
+    <rect width="520" height="60" rx="12" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.1"/>
+    <text x="20" y="27" fill="#ffffff" font-family="system-ui, sans-serif" font-size="13" font-weight="600">City Heights Apartment Rent</text>
+    <text x="20" y="47" fill="#a1a1aa" font-family="'Geist Mono', monospace" font-size="11">6 months active</text>
+    <text x="380" y="38" fill="#10b981" font-family="'Geist Mono', monospace" font-size="14" font-weight="700">₹2,64,000 / yr</text>
+  </g>
+
+  <g transform="translate(40, 680)">
+    <rect width="520" height="60" rx="12" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.1"/>
+    <text x="20" y="27" fill="#ffffff" font-family="system-ui, sans-serif" font-size="13" font-weight="600">Netflix 4K Ultra Subscription</text>
+    <text x="20" y="47" fill="#a1a1aa" font-family="'Geist Mono', monospace" font-size="11">₹649 / month</text>
+    <text x="400" y="38" fill="#10b981" font-family="'Geist Mono', monospace" font-size="14" font-weight="700">₹7,788 / yr</text>
+  </g>
+</svg>

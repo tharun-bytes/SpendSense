@@ -1,0 +1,73 @@
+<svg width="600" height="800" viewBox="0 0 600 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#09090b" />
+      <stop offset="100%" stop-color="#18181b" />
+    </linearGradient>
+    <linearGradient id="cardBorder3" x1="0" y1="0" x2="600" y2="800" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="596" height="796" rx="24" fill="url(#bg3)" stroke="url(#cardBorder3)" stroke-width="2"/>
+
+  <!-- Stage Pill -->
+  <rect x="40" y="45" width="145" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2"/>
+  <text x="55" y="65" fill="#ffffff" font-family="'Geist Mono', monospace" font-size="11" font-weight="600" letter-spacing="1">BUDGET HEALTH</text>
+
+  <!-- Header -->
+  <text x="40" y="115" fill="#ffffff" font-family="system-ui, sans-serif" font-size="20" font-weight="700" letter-spacing="-0.5">BUDGET CAPS &amp; THRESHOLDS</text>
+  <text x="40" y="140" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="13">Active period allowances vs actual outflows</text>
+  <line x1="40" y1="165" x2="560" y2="165" stroke="#ffffff" stroke-opacity="0.1"/>
+
+  <!-- Top Burn Card -->
+  <rect x="40" y="190" width="520" height="110" rx="16" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.15"/>
+  <text x="65" y="220" fill="#a1a1aa" font-family="'Geist Mono', monospace" font-size="11">ACTIVE MONTH TOTAL ALLOCATION</text>
+  <text x="65" y="255" fill="#ffffff" font-family="'Geist Mono', monospace" font-size="24" font-weight="700">₹45,208 / ₹83,000</text>
+  <text x="420" y="255" fill="#10b981" font-family="'Geist Mono', monospace" font-size="18" font-weight="600">54.5% BURN</text>
+
+  <!-- Master Bar -->
+  <rect x="65" y="275" width="470" height="8" rx="4" fill="#27272a"/>
+  <rect x="65" y="275" width="256" height="8" rx="4" fill="#10b981"/>
+
+  <!-- Exceeded Budget Item (Healthcare) -->
+  <g transform="translate(40, 325)">
+    <rect width="520" height="85" rx="14" fill="#881337" fill-opacity="0.15" stroke="#f43f5e" stroke-opacity="0.4"/>
+    <text x="20" y="30" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Healthcare Diagnostics</text>
+    <text x="20" y="55" fill="#fb7185" font-family="'Geist Mono', monospace" font-size="12">Spent: ₹7,500 / Cap: ₹3,000</text>
+    <text x="380" y="35" fill="#f43f5e" font-family="'Geist Mono', monospace" font-size="12" font-weight="700">250% EXCEEDED</text>
+    <rect x="20" y="68" width="480" height="5" rx="2" fill="#27272a"/>
+    <rect x="20" y="68" width="480" height="5" rx="2" fill="#f43f5e"/>
+  </g>
+
+  <!-- Warning Item (Housing) -->
+  <g transform="translate(40, 430)">
+    <rect width="520" height="85" rx="14" fill="#78350f" fill-opacity="0.15" stroke="#f59e0b" stroke-opacity="0.4"/>
+    <text x="20" y="30" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Housing Allocation</text>
+    <text x="20" y="55" fill="#fcd34d" font-family="'Geist Mono', monospace" font-size="12">Spent: ₹22,000 / Cap: ₹25,000</text>
+    <text x="390" y="35" fill="#f59e0b" font-family="'Geist Mono', monospace" font-size="12" font-weight="700">88.0% WARNING</text>
+    <rect x="20" y="68" width="480" height="5" rx="2" fill="#27272a"/>
+    <rect x="20" y="68" width="422" height="5" rx="2" fill="#f59e0b"/>
+  </g>
+
+  <!-- Healthy Item (Shopping) -->
+  <g transform="translate(40, 535)">
+    <rect width="520" height="85" rx="14" fill="#064e3b" fill-opacity="0.15" stroke="#10b981" stroke-opacity="0.3"/>
+    <text x="20" y="30" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Shopping &amp; Essentials</text>
+    <text x="20" y="55" fill="#a1a1aa" font-family="'Geist Mono', monospace" font-size="12">Spent: ₹5,400 / Cap: ₹8,000</text>
+    <text x="400" y="35" fill="#10b981" font-family="'Geist Mono', monospace" font-size="12" font-weight="700">67.5% HEALTHY</text>
+    <rect x="20" y="68" width="480" height="5" rx="2" fill="#27272a"/>
+    <rect x="20" y="68" width="324" height="5" rx="2" fill="#10b981"/>
+  </g>
+
+  <!-- Healthy Item (Food & Dining) -->
+  <g transform="translate(40, 640)">
+    <rect width="520" height="85" rx="14" fill="#064e3b" fill-opacity="0.15" stroke="#10b981" stroke-opacity="0.3"/>
+    <text x="20" y="30" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Food &amp; Dining Allowance</text>
+    <text x="20" y="55" fill="#a1a1aa" font-family="'Geist Mono', monospace" font-size="12">Spent: ₹4,960 / Cap: ₹15,000</text>
+    <text x="400" y="35" fill="#10b981" font-family="'Geist Mono', monospace" font-size="12" font-weight="700">33.1% HEALTHY</text>
+    <rect x="20" y="68" width="480" height="5" rx="2" fill="#27272a"/>
+    <rect x="20" y="68" width="158" height="5" rx="2" fill="#10b981"/>
+  </g>
+</svg>
